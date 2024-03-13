@@ -8,15 +8,15 @@ The purpose of this study is for us, as a potential newly established car dealer
 
 Research Questions:
 
-What are the current trends and preferences in the car market?
-Which factors are most important for car buyers? Is it price, brand, or are there other factors that play a significant role in customers' purchasing decisions?
-Which regions have the greatest potential?
-How does customers' annual income influence their choice of car class and price range?
-How do sales trends vary throughout the year, and is there a peak season for car sales?
+- What are the current trends and preferences in the car market?
+- Which factors are most important for car buyers? Is it price, brand, or are there other factors that play a significant role in customers' purchasing decisions?
+- Which regions have the greatest potential?
+- How does customers' annual income influence their choice of car class and price range?
+- How do sales trends vary throughout the year, and is there a peak season for car sales?
 
 Hypotheses:
 
-Null Hypothesis: There is no significant correlation between car features, brand reputation, and purchasing preferences.
-Null Hypothesis: Buyers' attitudes towards car brands are uniform.
-Null Hypothesis: Sales trends remain consistent throughout the year without significant seasonal variations.
-Null Hypothesis: Customers' preferences for newer or older car models are independent of their demographic characteristics.
+- Null Hypothesis: There is no significant correlation between car features, brand reputation, and purchasing preferences.
+- Null Hypothesis: Buyers' attitudes towards car brands are uniform.
+- Null Hypothesis: Sales trends remain consistent throughout the year without significant seasonal variations.
+- Null Hypothesis: Customers' preferences for newer or older car models are independent of their demographic characteristics.
