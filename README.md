@@ -31,12 +31,6 @@ ________________________________________________________________________________
 
 ## Implementation Instructions
 
-- Clone the repository with ```git clone ```
-- Open the repository in VS Code 
-- Open the terminal and type ``` source biExam_project-env/bin/activate ``` to activate the virtual environment
-- You can now run the notebook with the virtual environment
-- To see the data visualization app, type in ```streamlit run app.py ```
-
 
 ## Data Source 
 
