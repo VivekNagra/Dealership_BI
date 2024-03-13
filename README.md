@@ -11,14 +11,13 @@ For new entrants in the car dealership industry, it’s crucial to understand th
 - Conduct thorough research to identify current trends and preferences in the car market.
 - Analyze factors crucial to car buyers, such as price, brand reputation, and other key influences on purchasing decisions.
 - Explore regional market potentials to determine the most lucrative location for the dealership.
-- Investigate how annual income influences consumer choices in car class and price range.
+- Investigate how  and if annual income influences consumer choices in car class and price range.
 - Study sales trends throughout the year to identify high seasons for car sales.
 
 ### Hypothesis Testing
 - Test the hypothesis that there is no significant correlation between car features, brand reputation, and purchasing preferences.
-- Examine if attitudes towards car brands are uniform across different consumer groups.
 - Investigate whether sales trends are consistent throughout the year without significant seasonal variations.
-- Explore if preferences for newer or older car models are independent of demographic characteristics.
+- Explore if preferences for cars differs between genders
 
 ### Data-Driven Strategy Development
 - Based on the findings, propose marketing strategies targeting identified consumer segments.
