@@ -1,22 +1,30 @@
-BUSINESS CASE:
+# Business Intelligence Exam Project: Analytical Insights for New Car Dealership
 
-In this assignment, we imagine ourselves as a group wanting to open a car dealership. In this context, we need insights into the car market to ensure the best possible start in the industry. We aim to understand if there are specific car brands that sell the most, if we should consider geographical location regarding potential growth and competition, and if there are specific target demographics for certain types of cars (e.g., affluent men driving luxury cars, women driving compact cars, etc.).
+## Objective
+To gain valuable insights into the car market for a group of entrepreneurs planning to open a car dealership. The aim is to understand market trends, consumer preferences, and potential regional opportunities to ensure a successful business launch.
 
-Purpose:
+## Problem Statement
+For new entrants in the car dealership industry, it’s crucial to understand the dynamics of the car market. Insights into consumer preferences, regional market potentials, and seasonal sales trends are essential for developing effective marketing strategies and choosing the right location for the dealership.
 
-The purpose of this study is for us, as a potential newly established car dealership, to understand the market we are entering to give ourselves the best possible chance of success. Additionally, the study will likely provide us with a better understanding and ideas for marketing strategies, as well as an insight into which regions would be most suitable for our dealership.
+## Tasks
+### Market Research and Data Analysis
+- Conduct thorough research to identify current trends and preferences in the car market.
+- Analyze factors crucial to car buyers, such as price, brand reputation, and other key influences on purchasing decisions.
+- Explore regional market potentials to determine the most lucrative location for the dealership.
+- Investigate how annual income influences consumer choices in car class and price range.
+- Study sales trends throughout the year to identify high seasons for car sales.
 
-Research Questions:
+### Hypothesis Testing
+- Test the hypothesis that there is no significant correlation between car features, brand reputation, and purchasing preferences.
+- Examine if attitudes towards car brands are uniform across different consumer groups.
+- Investigate whether sales trends are consistent throughout the year without significant seasonal variations.
+- Explore if preferences for newer or older car models are independent of demographic characteristics.
 
-- What are the current trends and preferences in the car market?
-- Which factors are most important for car buyers? Is it price, brand, or are there other factors that play a significant role in customers' purchasing decisions?
-- Which regions have the greatest potential?
-- How does customers' annual income influence their choice of car class and price range?
-- How do sales trends vary throughout the year, and is there a peak season for car sales?
+### Data-Driven Strategy Development
+- Based on the findings, propose marketing strategies targeting identified consumer segments.
+- Recommend a geographic location for the new dealership based on potential market growth and competition.
+- Suggest car brands and models to stock that align with consumer preferences and regional demands.
 
-Hypotheses:
-
-- Null Hypothesis: There is no significant correlation between car features, brand reputation, and purchasing preferences.
-- Null Hypothesis: Buyers' attitudes towards car brands are uniform.
-- Null Hypothesis: Sales trends remain consistent throughout the year without significant seasonal variations.
-- Null Hypothesis: Customers' preferences for newer or older car models are independent of their demographic characteristics.
+### Application of Insights
+- Develop a business plan encompassing marketing strategies and location selection.
+- Consider creating a prototype tool for interactive visualization of market analysis and predictions, facilitating strategic planning and decision-making.
