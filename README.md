@@ -17,16 +17,15 @@ For new entrants in the car dealership industry, it’s crucial to understand th
 ### Hypothesis Testing
 - Test the hypothesis that there is no significant correlation between car features, brand reputation, and purchasing preferences.
 - Investigate whether sales trends are consistent throughout the year without significant seasonal variations.
-- Explore if preferences for cars differs between genders
+- Explore if preferences for cars differ between genders
 
 ### Data-Driven Strategy Development
 - Based on the findings, propose marketing strategies targeting identified consumer segments.
 - Recommend a geographic location for the new dealership based on potential market growth and competition.
 - Suggest car brands and models to stock that align with consumer preferences and regional demands.
 
-### Application of Insights
-- Develop a business plan encompassing marketing strategies and location selection.
-- Consider creating a prototype tool for interactive visualization of market analysis and predictions, facilitating strategic planning and decision-making.
+### Application 
+- Create an interactive visualization of the findings and solution to problem statement.
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
