@@ -307,7 +307,14 @@ def load_df_reduced():
     return joblib.load('models/pca/df_reduced.joblib')
 
 # Load the reduced DataFrame
-df_reduced = load_df_reduced()
+x_pca = load_df_reduced()
 
-fig = px.scatter_3d(df_reduced, x='PC1', y='PC2', z='PC3', color='Cluster', opacity=0.7, size_max=5, title='3D Clustering')
+@st.cache
+def load_df():
+    # Load the DataFrame
+    return joblib.load('models/df_test.joblib')
+
+df_test = load_df()
+
+fig = px.scatter_3d(df_test, x=x_pca[:, 0], y=x_pca[:, 1], z= x_pca[:, 2], color='Cluster', opacity=0.7, size_max=5, title='3D Clustering')
 st.plotly_chart(fig, use_container_width=True)
