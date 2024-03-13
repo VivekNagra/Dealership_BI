@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 ## Data Source 
 
-The dataset comprises records of car sales transactions, with details such as the date of sale, customer information including gender and annual income, dealership details, and car specifications including make, model, engine type, transmission, color, and body style. Each entry in the dataset represents a unique car sale, providing insights into customer preferences, pricing trends, and dealership performance across different regions
+Our dataset is a sales report of car sales. The dataset comprises records of car sales transactions, with details such as the date of sale, customer information including gender and annual income, dealership details, and car specifications including make, model, engine type, transmission, color, and body style. Each entry in the dataset represents a unique car sale, providing insights into customer preferences, pricing trends, and dealership performance across different regions
 
 #### Dataset dictionary
 
@@ -67,5 +67,3 @@ The dataset comprises records of car sales transactions, with details such as th
 
 
 Link to the data source:  https://www.kaggle.com/datasets/missionjee/car-sales-report
-
-
