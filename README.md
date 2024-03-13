@@ -1,4 +1,4 @@
-# Business Intelligence Exam Project: Analytical Insights for New Car Dealership in the US
+# Business Intelligence Exam Project: Analytical Insights for startup car dealership in the US
 
 ## Objective
 To gain valuable insights into the car market for a group of entrepreneurs planning to open a car dealership. The aim is to understand market trends, consumer preferences, and potential regional opportunities to ensure a successful business launch.
