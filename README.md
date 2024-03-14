@@ -30,7 +30,15 @@ For new entrants in the car dealership industry, it’s crucial to understand th
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ## Implementation Instructions
-
+This tutorial is only for mac users
+1. New terminal inside Visual Studio Code
+2. Run “python3 -m venv my_project_env” in terminal
+3. Run “source my_project_env/bin/activate” in terminal
+4. Run “pip install pandas seaborn matplotlib scikit-learn plotly xgboost catboost joblib prophet” in terminal
+5. Choose created kernel
+6. Choose “run” and then press on “install”
+7. Press “restart kernel” after successful install on all
+8. Run “streamlit run app.py” in terminal
 
 ## Data Source 
 
